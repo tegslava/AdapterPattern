@@ -4,9 +4,9 @@
 > "C:\Program Files\Java\jdk-13.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.3\lib\idea_rt.jar=51599:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Вячеслав\IdeaProjects\AdapterPattern\out\production\AdapterPattern Main<br/>
 > Аргумент a = 5<br/>
 > Аргумент b = 15<br/>
-> Демонстрация операции умножения класса Calulator:<br/>
+> Демонстрация операции умножения класса Calculator:<br/>
 > 75.0<br/>
-> Демонстрация операции возведения в степень класса Calulator:<br/>
+> Демонстрация операции возведения в степень класса Calculator:<br/>
 > 3.0517578125E10<br/>
 > Демонстрация операция умножения IntsCalculator:<br/>
 > 75<br/>
